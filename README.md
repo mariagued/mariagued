@@ -32,3 +32,10 @@ target="_blank"></a>
 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 target="_blank"></a>
 </div>
+
+<br>
+
+## Últimos vídeos:
+- [Formulário Google: Introdução à Computação](https://www.youtube.com/watch?v=fhwtD_1TznI)<br/>
+- [Aplicando Responsividade: Desenvolvimento de Páginas WEB (Part.1)](https://www.youtube.com/watch?v=IfNVtUOJOUU)<br/>
+- [Desenvolvimento de uma Página HTML com CSS (Part.2)](https://www.youtube.com/watch?v=mRM-ssFhRPI)<br/>
