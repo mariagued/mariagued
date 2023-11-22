@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Maria Eduarda 👋🏻
 
-- 🌐 Atualmente estou estudando cursando TSI na UTFPR
+- 🌐 Atualmente estou cursando TSI na UTFPR
 - 💬 Estudando HTML e CSS...
 - 😊 Pronouns: ela/dela
 
@@ -35,8 +35,5 @@
 		target="_blank">
 	</a>
 </div>
-
 <br>
-
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariagued&show_icons=true&theme=tokyonight"/>
