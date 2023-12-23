@@ -43,6 +43,7 @@ target="_blank"></a>
 <br>
 
 ## Últimos vídeos:
+- [Jogo no Scratch - Pensamento Computacional](https://youtu.be/HNeJwfbYCNU?feature=shared)<br/>
+- [Aplicando Responsividade: Desenvolvimento de Páginas WEB (Part.1)](https://youtu.be/mRM-ssFhRPI)<br/>
+- [Aplicando Responsividade: Desenvolvimento de Páginas WEB (Part.2)](https://youtu.be/60sTEq4Td_Q)<br/>
 - [Formulário Google: Introdução à Computação](https://www.youtube.com/watch?v=fhwtD_1TznI)<br/>
-- [Aplicando Responsividade: Desenvolvimento de Páginas WEB (Part.1)](https://www.youtube.com/watch?v=IfNVtUOJOUU)<br/>
-- [Desenvolvimento de uma Página HTML com CSS (Part.2)](https://www.youtube.com/watch?v=mRM-ssFhRPI)<br/>
