@@ -40,7 +40,7 @@ target="_blank"></a>
 
 <br>
 
-## Últimos vídeos:
+## Últimos vídeos: 📽️
 - [Jogo no Scratch - Pensamento Computacional](https://youtu.be/HNeJwfbYCNU?feature=shared)<br/>
 - [Aplicando Responsividade: Desenvolvimento de Páginas WEB (Part.1)](https://youtu.be/mRM-ssFhRPI)<br/>
 - [Aplicando Responsividade: Desenvolvimento de Páginas WEB (Part.2)](https://youtu.be/60sTEq4Td_Q)<br/>
