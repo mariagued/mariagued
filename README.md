@@ -6,7 +6,7 @@
 
 Esse é um canal com intuito instutucional, e é voltado totalmente mais afins práticos onde desenvolvo diversos projetos relacionado ao meu curso de graduação.
 
-🌐 Sou apaixonada por tecnologia e inovação, sempre estou atrás de novas formas de aprender e crescer na área. Atualmente, estou cursando o curso superior de Tecnologia de Sistemas para Internet na Universidade Tecnológica Federal do Paraná(UTFPR), onde desenvolvo competências nas áreas de desenvolvimento web, banco de dados, inteligência artificial e segurança da informação.
+🌐 Sou apaixonada pela tecnologia e inovação, sempre estou atrás de novas formas de aprender e crescer na área. Atualmente, estou cursando o curso superior de Tecnologia de Sistemas para Internet na Universidade Tecnológica Federal do Paraná(UTFPR), onde desenvolvo competências nas áreas de desenvolvimento web, banco de dados, inteligência artificial e segurança da informação.
 
 
 <br>
