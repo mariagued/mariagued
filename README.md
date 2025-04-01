@@ -9,8 +9,8 @@ Esse é um canal com intuito instutucional, e é voltado totalmente mais afins p
 
 🚀 Apaixonada por Tecnologia, Inovação e Dados | Estudante de Tecnologia
 
-Desde pequena, sempre fui fascinada pelo mundo da computação e movida por uma curiosidade indescritível de aprender mais. Atualmente, estou cursando Tecnologia de Sistemas para Internet na Universidade Tecnológica Federal do Paraná, onde desenvolvo competências em desenvolvimento web, banco de dados e análise de dados.
-🌐 Tenho grande interesse na área de dados, explorando desde a modelagem e manipulação de bancos de dados até análise e visualização de informações para gerar insights estratégicos. Meu objetivo é aprofundar meus conhecimentos em dados, sempre buscando aplicar tecnologia de forma inovadora e impactante.
+Desde pequena, sempre fui fascinada pelo mundo da computação e movida por uma curiosidade indescritível de aprender mais. Atualmente, estou cursando Tecnologia de Sistemas para Internet na Universidade Tecnológica Federal do Paraná, onde desenvolvo competências em desenvolvimento web, banco de dados e análise de dados.<br>
+🌐 Tenho grande interesse na área de dados, explorando desde a modelagem e manipulação de bancos de dados até análise e visualização de informações para gerar insights estratégicos. Meu objetivo é aprofundar meus conhecimentos em dados, sempre buscando aplicar tecnologia de forma inovadora e impactante.<br>
 💡 Estou aberta a oportunidades e trocas de conhecimento.
 
 
