@@ -2,7 +2,6 @@
 
 - 🌐 Atualmente, estou cursando Tecnologia de Sistemas Para Internet (TSI) na UTFPR
 - 💬 Evoluindo cada dia mais em Dados e PowerBI
-- 😊 Pronouns: ela/dela
 
 Esse é um canal com intuito instutucional, e é voltado totalmente mais afins práticos onde desenvolvo diversos projetos relacionado ao meu curso de graduação.
 
