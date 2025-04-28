@@ -43,7 +43,7 @@ target="_blank"></a>
 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 target="_blank"></a>
 <a href="https://discord.com/maria.ed.guedes" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="mailto:mariao.2004@alunos.utfpr.edu.br"><img
+<a href="mariao.2004@alunos.utfpr.edu.br"><img
 src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
 target="_blank"></a>
 <a href="https://www.linkedin.com/in/maria-eduarda-guedes-863a311b3/" target="_blank"><img
