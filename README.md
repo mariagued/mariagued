@@ -1,8 +1,9 @@
 ## Olá! Eu sou a Maria Eduarda 👋🏻
 
 - 🌐 Atualmente, estou cursando Sistemas Para Internet - SI na UTFPR
-- 💬 Evoluindo cada dia mais em Dados e PowerBI
-
+- 💬 Evoluindo cada dia mais em Dados e Qlik
+- 💻 Cresol Grande Lagos PR/SP
+  
 Esse é um canal com intuito instutucional, e é voltado totalmente mais afins práticos onde desenvolvo diversos projetos relacionado ao meu curso de graduação.
 
 🚀 Apaixonada por Tecnologia, Inovação e Dados | Estudante de Tecnologia
