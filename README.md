@@ -34,7 +34,7 @@ Desde pequena, sempre fui fascinada pelo mundo da computação e movida por uma 
   <img align="center" alt="DBeaver" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-
+  <img align="center" alt="Qlik Sense" height="30" width="40" src="https://www.svgrepo.com/show/354242/qlik.svg">
 </div>
 <br>
 
