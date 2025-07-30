@@ -4,7 +4,7 @@
 - 💬 Evoluindo cada dia mais em Dados e Qlik
 - 💻 Cresol Grandes Lagos PR/SP
   
-Esse é um canal com intuito instutucional, e é voltado totalmente mais afins práticos onde desenvolvo diversos projetos relacionado ao meu curso de graduação.
+Me acompanhe nessa jornada acadêmica, onde estou constantemente desenvolvendo projetos com foco prático, alinhados à minha graduação. Aqui, compartilho iniciativas que refletem meu aprendizado e evolução na área.
 
 🚀 Apaixonada por Tecnologia, Inovação e Dados | Estudante de Tecnologia
 
@@ -47,7 +47,7 @@ target="_blank"></a>
 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 target="_blank"></a>
 <a href="https://discord.com/maria.ed.guedes" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="mariao.2004@alunos.utfpr.edu.br"><img
+<a href="https://mariao.2004@alunos.utfpr.edu.br"><img
 src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
 target="_blank"></a>
 <a href="https://www.linkedin.com/in/maria-eduarda-guedes-863a311b3/" target="_blank"><img
