@@ -2,7 +2,7 @@
 
 - 🌐 Atualmente, estou cursando Sistemas Para Internet - SI na UTFPR
 - 💬 Evoluindo cada dia mais em Dados e Qlik
-- 💻 Cresol Grandes Lagos PR/SP
+- 💻 Informações Gerenciais / Cresol Grandes Lagos PR/SP
   
 Me acompanhe nessa jornada acadêmica, onde estou constantemente desenvolvendo projetos com foco prático, alinhados à minha graduação. Aqui, compartilho iniciativas que refletem meu aprendizado e evolução na área.
 
