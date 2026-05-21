@@ -12,10 +12,6 @@ Desde pequena, sempre fui fascinada pelo mundo da computação e movida por uma 
 🌐 Tenho grande interesse na área de dados, explorando desde a modelagem e manipulação de bancos de dados até análise e visualização de informações para gerar insights estratégicos. Meu objetivo é aprofundar meus conhecimentos em dados, sempre buscando aplicar tecnologia de forma inovadora e impactante.<br>
 💡 Estou aberta para trocas de conhecimento.
 
-
-<br>
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariagued&show_icons=true&theme=tokyonight"/>
-
 <br> 
 
 ## Tecnologias 👩‍💻
