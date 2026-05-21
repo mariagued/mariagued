@@ -14,7 +14,7 @@ Desde pequena, sempre fui fascinada pelo mundo da computação e movida por uma 
 
 
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariagued&show_icons=true&theme=tokyonight"/>
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariagued&show_icons=true&theme=tokyonight"/>
 
 <br> 
 
