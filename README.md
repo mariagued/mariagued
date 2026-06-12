@@ -13,9 +13,14 @@ Desde pequena, sempre fui fascinada pelo mundo da computação e movida por uma 
 💡 Estou aberta para trocas de conhecimento.
 
 <br> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariagued&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariagued&commits_year=2020)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariagued&show_icons=true&theme=radical)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariagued&show_icons=true&theme=tokyonight)
-
-
 
 <br>
 
