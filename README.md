@@ -13,7 +13,7 @@ Desde pequena, sempre fui fascinada pelo mundo da computação e movida por uma 
 💡 Estou aberta para trocas de conhecimento.
 
 <br> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariagued&show_icons=true&theme=tokyonight)
 
 
 
