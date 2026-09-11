@@ -1,12 +1,12 @@
 ## Olá! Eu sou a Maria Eduarda 👋🏻
 
 - 🌐 Atualmente, estou cursando Sistemas Para Internet - SI na UTFPR
-- 💬 Evoluindo cada dia mais em Dados e Qlik Sense
+- 💬 Evoluindo em dados e informações estratégicas
 - 💻 Informações Gerenciais
   
 Me acompanhe nessa jornada acadêmica, onde estou constantemente desenvolvendo projetos com foco prático, alinhados à minha graduação. Aqui, compartilho iniciativas que refletem meu aprendizado e evolução na área.
 
-🚀 Apaixonada por Tecnologia, Inovação e Dados | Estudante de Tecnologia
+🚀 Apaixonada por Tecnologia, Inovação e Dados
 
 Desde pequena, sempre fui fascinada pelo mundo da computação e movida por uma curiosidade indescritível de aprender mais. Atualmente, estou cursando Tecnologia de Sistemas para Internet na Universidade Tecnológica Federal do Paraná, onde desenvolvo competências em desenvolvimento web, banco de dados e análise de dados.<br>
 🌐 Tenho grande interesse na área de dados, explorando desde a modelagem e manipulação de bancos de dados até análise e visualização de informações para gerar insights estratégicos. Meu objetivo é aprofundar meus conhecimentos em dados, sempre buscando aplicar tecnologia de forma inovadora e impactante.<br>
